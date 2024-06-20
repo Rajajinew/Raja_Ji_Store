@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "251957782342",
+    "project_id": "rajajipartner",
+    "storage_bucket": "rajajipartner.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:251957782342:android:64eda59e2c44215579a747",
+        "android_client_info": {
+          "package_name": "com.example.raja_ji_partner"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDL2SHI8jqXkDm2V3l0c4SMVRpJi-__Tw8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
